@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Desktop view
 ![](screenshots/desktop1.png)
-![](screenshots/desktop1.png)
+![](screenshots/desktop2.png)
 
 ### Mobile view
 ![](screenshots/mobile1.png)
